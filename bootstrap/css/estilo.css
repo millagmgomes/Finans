@@ -1,0 +1,25 @@
+#home {
+    background: #343A40;
+
+}
+
+.display-4, p {
+    color:white;
+}
+
+.caixa{
+    padding: 60px 0;
+    background: #343A40;
+}
+
+h4, h2{
+    color: yellow;
+}
+
+footer p a {
+    margin: 5px 15px;
+}
+
+a {
+    color: #343A40;
+}
